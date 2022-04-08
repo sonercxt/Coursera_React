@@ -1,0 +1,83 @@
+{
+  "journeys": [
+    {
+      "from": {
+        "station": {
+          "id": "8506210",
+          "name": "Gossau SG",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.411829,
+            "y": 9.253057
+          },
+          "distance": null
+        },
+        "arrival": null,
+        "arrivalTimestamp": null,
+        "departure": "2022-04-01T21:04:00+0200",
+        "departureTimestamp": 1648839840,
+        "delay": null,
+        "platform": "3",
+        "prognosis": {
+          "platform": null,
+          "arrival": null,
+          "departure": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "realtimeAvailability": null,
+        "location": {
+          "id": "8506210",
+          "name": "Gossau SG",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.411829,
+            "y": 9.253057
+          },
+          "distance": null
+        }
+      },
+      "to": {
+        "station": {
+          "id": "8506300",
+          "name": "St. Gallen Winkeln",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.403926,
+            "y": 9.300864
+          },
+          "distance": null
+        },
+        "arrival": "2022-04-01T21:07:00+0200",
+        "arrivalTimestamp": 1648840020,
+        "departure": null,
+        "departureTimestamp": null,
+        "delay": null,
+        "platform": "2",
+        "prognosis": {
+          "platform": null,
+          "arrival": null,
+          "departure": null,
+          "capacity1st": null,
+          "capacity2nd": null
+        },
+        "realtimeAvailability": null,
+        "location": {
+          "id": "8506300",
+          "name": "St. Gallen Winkeln",
+          "score": null,
+          "coordinate": {
+            "type": "WGS84",
+            "x": 47.403926,
+            "y": 9.300864
+          },
+          "distance": null
+        }
+      },
+      "id": 1
+    }
+  ]
+}
